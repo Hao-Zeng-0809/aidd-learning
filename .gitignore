@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ⚠️ 注意：下面这些是**你的产出**，应该提交 —— 它们证明你完成了练习
+#   week1-pandas/clean_activities.csv
+#   week2-rdkit/drugs_properties.csv
+#   week2-rdkit/drugs_grid.png
+# 所以不要把它们加进 .gitignore
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
